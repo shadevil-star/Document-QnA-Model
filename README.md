@@ -26,12 +26,15 @@ Built with **LangChain**, **Groq**, and **Google Generative AI**, this tool deli
 
 ## 📸 Screenshots
 <div>
-  <img src="assets/screenshot2.png" class="img-responsive" alt="">
   <img src="assets/screenshot1.png" class="img-responsive" alt="">
+  <img src="assets/screenshot2.png" class="img-responsive" alt="">
 </div>
+
+
 
 ### Installation
 ```bash
+
 # Clone the repo
 git clone https://github.com/your-username/DocumentQnA.git
 cd DocumentQnA

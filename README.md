@@ -40,7 +40,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## 📸 Screenshots
-<p align="center">
+<div>
   <img src="assets/screenshot2.png" width="400">
   <img src="assets/screenshot1.png" width="400">
-</p>
+</div>

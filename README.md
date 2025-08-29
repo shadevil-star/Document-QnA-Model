@@ -23,8 +23,15 @@ Built with **LangChain**, **Groq**, and **Google Generative AI**, this tool deli
   - **Groq API Key** (for LLM)
   - **Google API Key** (for embeddings)
 
-### Installation
 
+## 📸 Screenshots
+<div>
+  <img src="assets/screenshot2.png" class="img-responsive" alt="">
+  <img src="assets/screenshot1.png" class="img-responsive" alt="">
+</div>
+
+### Installation
+```bash
 # Clone the repo
 git clone https://github.com/your-username/DocumentQnA.git
 cd DocumentQnA
@@ -38,12 +45,3 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-
-## 📸 Screenshots
-<div>
-  <img src="assets/screenshot2.png" class="img-responsive" alt="">
-  <img src="assets/screenshot1.png" class="img-responsive" alt="">
-</div>
-
-
-<img width="1066" height="708" alt="Image" src="https://github.com/user-attachments/assets/55a9630c-9a58-44d5-9418-66ad48884c98" />

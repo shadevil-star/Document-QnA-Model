@@ -41,6 +41,6 @@ streamlit run app.py
 
 ## 📸 Screenshots
 <div>
-  <img src="assets/screenshot2.png" width="400">
-  <img src="assets/screenshot1.png" width="400">
+  <img src="assets/screenshot2.png" class="img-responsive" alt="">
+  <img src="assets/screenshot1.png" class="img-responsive" alt="">
 </div>

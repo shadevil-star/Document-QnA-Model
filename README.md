@@ -30,6 +30,3 @@ Built with **LangChain**, **Groq**, and **Google Generative AI**, this tool deli
   <img src="assets/screenshot2.png" class="img-responsive" alt="">
 </div>
 
-
-
-streamlit run app.py

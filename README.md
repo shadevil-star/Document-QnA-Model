@@ -32,19 +32,4 @@ Built with **LangChain**, **Groq**, and **Google Generative AI**, this tool deli
 
 
 
-### Installation
-```bash
-
-# Clone the repo
-git clone https://github.com/your-username/DocumentQnA.git
-cd DocumentQnA
-
-# (Optional) Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
 streamlit run app.py
